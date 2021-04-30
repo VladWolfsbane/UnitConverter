@@ -1,0 +1,19 @@
+com/example/unitconverter/Second2Fragment.java
+ com.example.unitconverter.Second2Fragment
+ com.example.unitconverter.Second2Fragment$1
+com/example/unitconverter/SecondActivity.java
+ com.example.unitconverter.SecondActivity
+ com.example.unitconverter.SecondActivity$1
+ com.example.unitconverter.SecondActivity$2
+com/example/unitconverter/BuildConfig.java
+ com.example.unitconverter.BuildConfig
+com/example/unitconverter/FirstFragment.java
+ com.example.unitconverter.FirstFragment
+ com.example.unitconverter.FirstFragment$1
+com/example/unitconverter/First2Fragment.java
+ com.example.unitconverter.First2Fragment
+ com.example.unitconverter.First2Fragment$1
+com/example/unitconverter/MainActivity.java
+ com.example.unitconverter.MainActivity
+ com.example.unitconverter.MainActivity$1
+ com.example.unitconverter.MainActivity$2
